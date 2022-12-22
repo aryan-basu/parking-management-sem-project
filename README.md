@@ -1,7 +1,6 @@
 # Python_Vehicle_Parking_System
 <h1>Python_Vehicle_Parking_System</h1>
-<h2>Complete Tutorial Link : </h2>
-<a href="https://www.youtube.com/watch?v=W-H0ISsjwYs&list=PLb-NlfexLTk8SjXZgXEH8OdteuZjcQlqJ">https://www.youtube.com/watch?v=W-H0ISsjwYs&list=PLb-NlfexLTk8SjXZgXEH8OdteuZjcQlqJ</a>
+
 
 <hr>
 <p>
